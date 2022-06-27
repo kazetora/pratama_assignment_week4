@@ -1,0 +1,42 @@
+*   commit 3bf33cf8c86e16faceb6132a6cc71c691a6f0e6e (HEAD -> master, origin/master)
+|\  Merge: 9e4647f 566a8ec
+| | Author: Pratama Putra <pratama.x.putra@gmail.com>
+| | Date:   Mon Jun 27 21:26:51 2022 +0700
+| | 
+| |     Merge branch 'cv'
+| | 
+| * commit 566a8ecf617aa4db1cd5584f49cfd66121fb0b78 (cv)
+| | Author: Pratama Putra <pratama.x.putra@gmail.com>
+| | Date:   Mon Jun 27 21:25:24 2022 +0700
+| | 
+| |     Add company Samsung
+| | 
+| * commit 96985bb0ad1363fa4c92d7c73f520ad5cf060dea
+| | Author: Pratama Putra <pratama.x.putra@gmail.com>
+| | Date:   Mon Jun 27 21:24:46 2022 +0700
+| | 
+| |     Add company PLN
+| | 
+| * commit 864a87e032f1f7f7f43b5903fc680e6c2d0266af
+| | Author: Pratama Putra <pratama.x.putra@gmail.com>
+| | Date:   Mon Jun 27 21:23:59 2022 +0700
+| | 
+| |     Add company Pertamina
+| | 
+| * commit 9c953c897155cff91921c2cbbeaed6cde5eee716
+| | Author: Pratama Putra <pratama.x.putra@gmail.com>
+| | Date:   Mon Jun 27 21:22:53 2022 +0700
+| | 
+| |     Initial CV
+| | 
+* | commit 9e4647f4fd7a1c1fb119c9995a004d8df454bca7
+|/  Author: Pratama Putra <pratama.x.putra@gmail.com>
+|   Date:   Mon Jun 27 21:26:33 2022 +0700
+|   
+|       update master pertama
+| 
+* commit 1e66dd4b600fd81ff8581d804075d6b926305055
+  Author: Pratama Putra <pratama.x.putra@gmail.com>
+  Date:   Mon Jun 27 21:18:24 2022 +0700
+  
+      First commit
